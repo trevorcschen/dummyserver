@@ -1,0 +1,51 @@
+[
+    {
+        "m_customer_id": "1",
+        "first_name": "Roman",
+        "last_name": "Sokolovych",
+        "email": "roman.sokolovych@valtech.com",
+        "telephone": null
+    },
+    {
+        "m_customer_id": "2",
+        "first_name": "Tetiana",
+        "last_name": "Volos",
+        "email": "tetiana.volos@valtech.com",
+        "telephone": null
+    },
+    {
+        "m_customer_id": "3",
+        "first_name": "Asia",
+        "last_name": "Semenova",
+        "email": "asia.semenova@valtech.com",
+        "telephone": null
+    },
+    {
+        "m_customer_id": "4",
+        "first_name": "Vadym",
+        "last_name": "Drobko",
+        "email": "vadym.drobko@valtech.com",
+        "telephone": null
+    },
+    {
+        "m_customer_id": "5",
+        "first_name": "Tetiana",
+        "last_name": "Volos",
+        "email": "tetiana.volos@valtech.com",
+        "telephone": null
+    },
+    {
+        "m_customer_id": "6",
+        "first_name": "Tetiana",
+        "last_name": "Volos",
+        "email": "tetiana.volos+1@valtech.com",
+        "telephone": null
+    },
+    {
+        "m_customer_id": "7",
+        "first_name": "Cooper",
+        "last_name": "Frost",
+        "email": "tetiana.volos+18@valtech.com",
+        "telephone": null
+    }
+]
