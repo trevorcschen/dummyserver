@@ -76,6 +76,20 @@
         "last_name": "Amem",
         "email": null,
         "telephone": "60122678968"
+    },
+    {
+        "m_customer_id": "105",
+        "first_name": "error while using the existing field value",
+        "last_name": "Amem",
+        "email": "Client@gmail.com",
+        "telephone": "0134753271"
+    },
+    {
+        "m_customer_id": "106",
+        "first_name": "new user with email and phone",
+        "last_name": "Amem",
+        "email": "trevorcschen@gmail.com",
+        "telephone": "0164043683"
     }        
  ]
 }
